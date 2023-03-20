@@ -1,6 +1,7 @@
 ### User ###
 .DS_Store
 /bin
+*.swp
 
 ### C ###
 # Prerequisites
