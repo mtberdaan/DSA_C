@@ -1,2 +1,6 @@
 # Data structures and Algorithms in C
-improving my dev knowledge
+
+## Content
+
+- [static array](https://github.com/mtberdaan/DSA_C/blob/main/src/static_array.c)
+
