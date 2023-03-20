@@ -19,4 +19,14 @@ Upper bound of the complexity in the **worst** case, helping to quantify perform
 n - The size of the input
 Complexity is from smallest to largest.
 
+## Arrays
+
+|           | Static Array | Dynamic Array |
+|-----------|--------------|---------------|
+| Access    | O(1)         | O(1)          |
+| Search    | O(n)         | O(n)          |
+| Insertion | N/A          | O(n)          |
+| Appending | N/A          | O(1)          |
+| Deletion  | N/A          | O(n)          |
+
 

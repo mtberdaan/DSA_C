@@ -1,8 +1,17 @@
 # Data structures and Algorithms in C
 
+## Algorithms
+- [Big-O & Complexity Analysis](https://github.com/mtberdaan/DSA_C/blob/main/src/complexity_analysis.md)
+### Sorting Algorithms
+- Sorting Array
+
 ## Linear Data Structures
 ### Static Data Structures
-- [Array](https://github.com/mtberdaan/DSA_C/blob/main/src/static_array.c)
+- [Static Array](https://github.com/mtberdaan/DSA_C/blob/main/src/static_array.c)
+- [Dynamic Array Using Static Array](https://github.com/mtberdaan/DSA_C/blob/main/src/dynamic_array_1.c)
+- [Dynamic Array Using Malloc()](https://github.com/mtberdaan/DSA_C/blob/main/src/dynamic_array_2.c)
+  - add insertion, appending, deletion 
+- other dynamic arrays
 
 ### Dynamic Data Structures
 - Linked List
@@ -13,5 +22,3 @@
 - Tree
 - Graph
 
-## Algorithms
-- [Big-O & Complexity Analysis]()
