@@ -4,7 +4,7 @@
 
 ### Linear Data Structures
 #### Static Data Structures
-- [static array](https://github.com/mtberdaan/DSA_C/blob/main/src/static_array.c)
+- [Array](https://github.com/mtberdaan/DSA_C/blob/main/src/static_array.c)
 
 #### Dynamic Data Structures
 - Linked List
