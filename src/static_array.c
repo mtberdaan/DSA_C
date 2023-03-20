@@ -13,11 +13,9 @@ static void display(int intArray[], int length) {
 int main() {
   
   int i = 0;
-  int intArray[8];
+  int intArray[8] = {0}; //init array length 8 values 0
   
   display(intArray,8);
-  // array prints random values already present in mem
-  // where is it initialized?
 
   return 0;
 }
