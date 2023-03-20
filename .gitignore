@@ -1,5 +1,6 @@
 ### User ###
 .DS_Store
+/bin
 
 ### C ###
 # Prerequisites
