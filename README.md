@@ -14,7 +14,7 @@
 - other dynamic arrays
 
 ### Dynamic Data Structures
-- Linked List
+- [Singly Linked List](https://github.com/mtberdaan/DSA_C/blob/main/src/single_linked_list.c)
 - Stack
 - Queue
 
