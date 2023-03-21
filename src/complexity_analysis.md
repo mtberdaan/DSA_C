@@ -29,4 +29,13 @@ Complexity is from smallest to largest.
 | Appending | N/A          | O(1)          |
 | Deletion  | N/A          | O(n)          |
 
+## Linked Lists
 
+|                  | Singly Linked | Doubly Linked |
+|------------------|---------------|---------------|
+| Search           | O(n)          | O(n)          |
+| Insert at head   | O(1)          | O(1)          |
+| Insert at tail   | O(1)          | O(1)          |
+| Remove at head   | O(1)          | O(1)          |
+| Remove at tail   | O(n)          | O(1)          |
+| Remove in middle | O(n)          | O(n)          |

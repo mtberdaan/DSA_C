@@ -1,6 +1,7 @@
 ### User ###
 .DS_Store
 /bin
+/.vscode
 
 ### C ###
 # Prerequisites
