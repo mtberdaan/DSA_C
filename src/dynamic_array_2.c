@@ -27,7 +27,7 @@ int main() {
   }
   printf(" ]\n");
 
-  free(ptr)
+  free(ptr);
   ptr = NULL;
         
   return 0;
