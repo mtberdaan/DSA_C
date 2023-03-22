@@ -7,14 +7,14 @@
 
 ## Linear Data Structures
 ### Static Data Structures
-- [Static Array](https://github.com/mtberdaan/DSA_C/blob/main/src/static_array.c)
-- [Dynamic Array Using Static Array](https://github.com/mtberdaan/DSA_C/blob/main/src/dynamic_array_1.c)
-- [Dynamic Array Using Malloc()](https://github.com/mtberdaan/DSA_C/blob/main/src/dynamic_array_2.c)
+- [Static Array](https://github.com/mtberdaan/DSA_C/blob/main/src/array/static_array.c)
+- [Dynamic Array Using Static Array](https://github.com/mtberdaan/DSA_C/blob/main/src/array/dynamic_array_1.c)
+- [Dynamic Array Using Malloc()](https://github.com/mtberdaan/DSA_C/blob/main/src/array/dynamic_array_2.c)
   - add insertion, appending, deletion 
 - other dynamic arrays
 
 ### Dynamic Data Structures
-- [Singly Linked List](https://github.com/mtberdaan/DSA_C/blob/main/src/single_linked_list.c)
+- [Singly Linked List](https://github.com/mtberdaan/DSA_C/blob/main/src/linked_list/single_linked_list.c)
 - Stack
 - Queue
 
